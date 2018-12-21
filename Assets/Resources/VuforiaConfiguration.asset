@@ -47,9 +47,9 @@ MonoBehaviour:
   videoBackground:
     clippingMode: 0
     numDivisions: 2
-    videoBackgroundShader: {fileID: 4800000, guid: f40623b353e2f1943b1b3ba42975db7a,
+    videoBackgroundShader: {fileID: 4800000, guid: a5fea23beaaee4d43b89cd90b2d92b15,
       type: 3}
-    matteShader: {fileID: 4800000, guid: 66d0d78a3000021448b598bb54a3bfdf, type: 3}
+    matteShader: {fileID: 4800000, guid: a6e7e898fe98f294d81677806e3f5ed5, type: 3}
     videoBackgroundEnabled: 1
   deviceTracker:
     autoInitTracker: 0
