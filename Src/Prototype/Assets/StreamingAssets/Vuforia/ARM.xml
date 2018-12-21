@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="worldcup" size="100.000000 70.902397" />
+    <ImageTarget name="nseoultower" size="100.000000 69.909912" />
+    <ImageTarget name="lotteworldtower" size="100.000000 70.902397" />
+    <ImageTarget name="jonggak" size="100.000000 69.909912" />
+    <ImageTarget name="hongjimoon" size="100.000000 65.501167" />
+    <ImageTarget name="Gyeongbokgung" size="100.000000 69.909912" />
+    <ImageTarget name="Gwanghwamun" size="100.000000 65.501167" />
+    <ImageTarget name="dongdaemun" size="100.000000 70.902397" />
+    <ImageTarget name="DDP" size="100.000000 69.909912" />
+    <ImageTarget name="63building" size="100.000000 70.902397" />
+  </Tracking>
+</QCARConfig>
