@@ -58,43 +58,43 @@ public class Reaction : MonoBehaviour
         if (obj_63building.is_detected_)
         {
 
-            GUI.Button(new Rect(300, 300, 240, 120), "obj_63building");
+            GUI.Button(new Rect(0, 0, 240, 120), "obj_63building");
         }
         if (obj_ddp.is_detected_)
         {
-            GUI.Button(new Rect(600, 300, 240, 120), "obj_ddp");
+            GUI.Button(new Rect(0, 0, 240, 120), "obj_ddp");
         }
         if (obj_dongdaemun.is_detected_)
         {
-            GUI.Button(new Rect(600, 300, 240, 120), "obj_dongdaemun");
+            GUI.Button(new Rect(0, 0, 240, 120), "obj_dongdaemun");
         }
         if (obj_gwanghwamun.is_detected_)
         {
-            GUI.Button(new Rect(600, 300, 240, 120), "obj_gwanghwamun");
+            GUI.Button(new Rect(0, 0, 240, 120), "obj_gwanghwamun");
         }
         if (obj_gyeongbokgung.is_detected_)
         {
-            GUI.Button(new Rect(600, 300, 240, 120), "obj_gyeongbokgung");
+            GUI.Button(new Rect(0, 0, 240, 120), "obj_gyeongbokgung");
         }
         if (obj_hongjimoon.is_detected_)
         {
-            GUI.Button(new Rect(600, 300, 240, 120), "obj_hongjimoon");
+            GUI.Button(new Rect(0, 0, 240, 120), "obj_hongjimoon");
         }
         if (obj_jonggak.is_detected_)
         {
-            GUI.Button(new Rect(600, 300, 240, 120), "obj_jonggak");
+            GUI.Button(new Rect(0, 0, 240, 120), "obj_jonggak");
         }
         if (obj_lotteworldtower.is_detected_)
         {
-            GUI.Button(new Rect(600, 300, 240, 120), "obj_lotteworldtower");
+            GUI.Button(new Rect(0, 0, 240, 120), "obj_lotteworldtower");
         }
         if (obj_nseoultower.is_detected_)
         {
-            GUI.Button(new Rect(600, 300, 240, 120), "obj_nseoultower");
+            GUI.Button(new Rect(0, 0, 240, 120), "obj_nseoultower");
         }
         if (obj_worldcup.is_detected_)
         {
-            GUI.Button(new Rect(600, 300, 240, 120), "obj_worldcup");
+            GUI.Button(new Rect(0, 0, 240, 120), "obj_worldcup");
         }
     }
     //IEnumerator RollTheDices()
